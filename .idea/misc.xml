@@ -3,12 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/activity_main.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/bottom.xml" value="0.1296875" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/fragment_config.xml" value="0.1" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/fragment_contast.xml" value="0.2223731884057971" />
         <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/fragment_friend.xml" value="0.1296875" />
         <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/fragment_we_chat.xml" value="0.1296875" />
         <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/fragment_weixin.xml" value="0.1296875" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/item.xml" value="0.21240942028985507" />
         <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork/app/src/main/res/layout/top.xml" value="0.1" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/activity_main.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/activity_news1.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/activity_news2.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/activity_news3.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/fragment_config.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/fragment_contast.xml" value="0.25377800937988537" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/fragment_friend.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/fragment_we_chat.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/item.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/barley/AndroidStudioProjects/lsywork3/app/src/main/res/layout/item2.xml" value="0.21467391304347827" />
       </map>
     </option>
   </component>

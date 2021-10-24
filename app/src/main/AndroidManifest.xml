@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lsywork">
         <activity
+            android:name=".news3"
+            android:exported="true" />
+        <activity
+            android:name=".news2"
+            android:exported="true" />
+        <activity
+            android:name=".news1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
